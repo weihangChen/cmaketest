@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/MyMain.dir/src/Test.cpp.o  -o MyMain  -L/home/marc/Desktop/Projects/Test1/build/MyLib -Wl,-rpath,/home/marc/Desktop/Projects/Test1/build/MyLib -lMyLib 
